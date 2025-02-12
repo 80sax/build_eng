@@ -1,4 +1,4 @@
-# C++ implementation for Python of a sort function
+# Testing GitHub Actions with a C++ Python binding
 
 ## Getting started
 
